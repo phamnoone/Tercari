@@ -1,0 +1,25 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons bx bx-envelope",
+      "slug": "app-email",
+      "badge": "label-primary fs-tiny"
+    },
+    {
+      "url": "/items",
+      "name": "Items",
+      "icon": "menu-icon tf-icons bx bx-cart-alt",
+      "slug": "app-email",
+      "badge": "label-primary fs-tiny"
+    },
+    {
+      "url": "https://jp.mercari.com/",
+      "icon": "menu-icon tf-icons bx bx-support",
+      "name": "Support",
+      "slug": "support",
+      "target": "_blank"
+    }
+  ]
+}
